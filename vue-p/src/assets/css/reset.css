@@ -1,0 +1,18 @@
+@charset "utf-8";
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select,figcaption,figure{margin:0;padding:0}
+ul, ol { list-style:none; }
+h1,h2,h3,h4,h5,h6,strong,b{font-weight: normal;}
+fieldset, img { border:none; }
+body,html{font: 14px "微软雅黑",arial;background:#fff;}
+img{vertical-align: top;}
+input{outline: none;}
+a{text-decoration: none;}
+em{font-style:normal ;}
+.clearfix:after{
+	content: " ";
+	display: block;
+	height: 0;
+	clear: both;
+	overflow: hidden;
+}
+.clearfix{*zoom: 1;}
